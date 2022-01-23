@@ -1,4 +1,3 @@
-// My Attempt
 const Manager = require("../lib/Manager");
 
 test("Can create an office number.", () => {
